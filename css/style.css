@@ -91,40 +91,44 @@ a{
 	padding-bottom: 2px;
 	color: white;
 }
-.php{
-	width: 70%;
+.streamlit{
+	width: 90%;
 	background-color: white;
 }
-.react{
-	width: 60%;
+.aws{
+	width: 80%;
 	background-color: white;
 }
-.r{
-	width: 50%;	
+.tensorflow{
+	width: 60%;	
+	background-color: white;
+}
+.pytorch{
+	width: 60%;	
 	background-color: white;
 }
 .python{
 	width: 90%;
 	background-color: white;
 }
-.laravel{
-	width: 50%;
+.gcp{
+	width: 80%;
 	background-color: white;
 }
-.nextjs {
-	width: 60%;
+.scikit-learn {
+	width: 80%;
 	background-color: white;
 }
 .machine{
 	width: 70%;
 	background-color: white;
 }
-.storytelling{
+.data{
 	width: 90%;
 	background-color: white;
 }
-.office{
-	width: 90%;
+.deep{
+	width: 50%;
 	background-color: white;
 }
 .name-div{
